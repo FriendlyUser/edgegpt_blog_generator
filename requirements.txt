@@ -1,0 +1,5 @@
+edgegpt
+pyvirtualdisplay
+stability-sdk
+requests
+PyYAML
